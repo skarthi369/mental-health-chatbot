@@ -75,6 +75,8 @@ mental-health-platform/
 │   └── package.json      # Node dependencies
 └── README.md
 ```
+<img width="1632" height="948" alt="image" src="https://github.com/user-attachments/assets/1c477030-4793-4314-8727-8db27e7503e2" />
+<img width="1632" height="948" alt="image" src="https://github.com/user-attachments/assets/c796ac81-8cec-447b-9238-d36d79220d17" />
 
 ## 🛡️ License
 
